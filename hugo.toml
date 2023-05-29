@@ -1,0 +1,4 @@
+baseURL = 'http://www.hemanthyarlagadda.me/'
+languageCode = 'en-us'
+title = 'My Resume'
+theme = 'ananke'
